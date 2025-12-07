@@ -1,0 +1,26 @@
+# Streamlit
+streamlit
+
+# Data manipulation
+numpy
+pandas
+
+# Image processing
+opencv-python
+scikit-image  # precompiled wheel available for Py3.12
+matplotlib
+seaborn        # works on Py3.12
+Pillow
+
+# Face detection
+mtcnn
+
+# Machine Learning / DL libraries
+scikit-learn    # latest compatible with Py3.12
+tensorflow
+keras
+torch        # CPU version to avoid CUDA issues on Windows
+torchvision # CPU version
+
+# Progress bar
+tqdm
