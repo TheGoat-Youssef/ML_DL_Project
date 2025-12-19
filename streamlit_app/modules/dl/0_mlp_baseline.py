@@ -31,7 +31,7 @@ def main():
         train_ds = make_tf_dataset(X_train, y_train, batch_size=batch_size, shuffle=True, one_hot=True)
         val_ds = make_tf_dataset(X_test, y_test, batch_size=batch_size, shuffle=False, one_hot=True)
 
-        hist = fit_model(model, train_ds, val_ds, epochs=epochs, name="mlp_baseline")
+        hist,f,z = fit_model(model, train_ds, val_ds, epochs=epochs, name="mlp_baseline")
         st.success("Training finished")
 
         # --- Plot training metrics ---
