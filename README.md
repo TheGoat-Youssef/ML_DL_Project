@@ -140,12 +140,11 @@ Features:
 
 ---
 
-## 🖼️ Image Prediction
+## 🖼️ Processing Video
 
 From app:
-> DL → Image Prediction
 
-Upload an image → Get predicted emotion
+(https://drive.google.com/file/d/1yNkNQBbkenl5Rs-lzs43F4efPO7IZR9w/view?usp=sharing)
 
 ---
 
