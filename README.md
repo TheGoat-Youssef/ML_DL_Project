@@ -45,7 +45,8 @@ It includes preprocessing, training, evaluation, and an interactive **Streamlit 
 
 ### 1. Clone the repository
 ```bash
-https://github.com/TheGoat-Youssef/ML_DL_Project.git
+git lfs install
+git clone https://github.com/TheGoat-Youssef/ML_DL_Project.git
 cd ML_DL_Projec
 ```
 
