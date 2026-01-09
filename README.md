@@ -11,7 +11,7 @@
 ---
 # 🎭 Facial Emotion Recognition 
 DataSet : FER-2013
-This project focuses on **facial emotion recognition** using Machine Learning and Deep Learning models (MLP, CNN, and Transfer Learning) & Clustering.  
+This project focuses on **facial emotion recognition** using  Deep Learning models (MLP, CNN, and Transfer Learning) & Clustering.  
 It includes preprocessing, training, evaluation, and an interactive **Streamlit web app** for visualization and prediction.
 
 ---
