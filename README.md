@@ -45,8 +45,8 @@ It includes preprocessing, training, evaluation, and an interactive **Streamlit 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/TheGoat-Youssef/ML_DL_Project.git
+cd ML_DL_Projec
 ```
 
 ### 2. Create a virtual environment
