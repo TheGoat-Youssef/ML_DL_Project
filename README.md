@@ -142,9 +142,8 @@ Features:
 
 ## 🖼️ Processing Video
 
-From app:
 
-(https://drive.google.com/file/d/1yNkNQBbkenl5Rs-lzs43F4efPO7IZR9w/view?usp=sharing)
+[![Watch Video](https://drive.google.com/file/d/1yNkNQBbkenl5Rs-lzs43F4efPO7IZR9w/view?usp=sharing)
 
 ---
 
