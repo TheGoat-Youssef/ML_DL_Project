@@ -1,4 +1,6 @@
-## Code Source Only For Preproccesing(prétraitement), Deep Learning and Clustering Made by Youssef ALOUANI & Ouissam ABOUJID 5IIRG3
+## Code Source Only For Preproccesing(prétraitement), Deep Learning and Clustering Made by Youssef ALOUANI & Ouissam ABOUJID 5IIRG3<br>
+<br>
+## NoteBook For Machine Learning Made by Issam HAMLIL & Adiba KHATTABI
 
 ## 👨‍💻 Authors
 
